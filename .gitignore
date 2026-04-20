@@ -1,0 +1,4 @@
+git rm --cached .DS_Store
+git add .gitignore
+git commit -m "Added gitignore and removed DS_Store"
+git push.DS_Store
