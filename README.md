@@ -1,4 +1,7 @@
 #Memora – A Local Memory-Augmented Conversational AI Assistant
+## 📸 Demo
+
+![App Screenshot](app.png)
 
     Memora is a memory-augmented conversational AI assistant built using Streamlit and Ollama (Mistral model).It remembers past conversations and generates context-aware responses.
 
